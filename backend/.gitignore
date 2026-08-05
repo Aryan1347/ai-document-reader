@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+chroma_store/
+uploads/
+chat_history.db
+.env
+*.pyc

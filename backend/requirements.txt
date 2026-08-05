@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+python-dotenv
+PyMuPDF
+pytesseract
+Pillow
+langchain
+langchain-mistralai
+langchain-chroma
+langchain-text-splitters
+langchain-core
+langchain-community
+chromadb
+groq
+sqlalchemy
